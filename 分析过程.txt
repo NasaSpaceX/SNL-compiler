@@ -1,0 +1,3707 @@
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+       #Program
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROGRAM  ID  TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Program->ProgramHead  DeclarePart  ProgramBody  DOT  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyDeclarePartProgramHead
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROGRAM  ID  TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProgramHead->PROGRAM  ProgramName  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyDeclarePartProgramNamePROGRAM
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROGRAM  ID  TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫PROGRAM
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyDeclarePartProgramName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProgramName->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyDeclarePartID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyDeclarePart
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫DeclarePart->TypeDec  VarDec  ProcDec  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeDec->TypeDeclaration  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDeclaration
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeDeclaration->TYPE  TypeDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecListTYPE
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+TYPE  ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫TYPE
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeDecList->TypeId  EQ  TypeName  SEMI  TypeDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMITypeNameEQTypeId
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeId->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMITypeNameEQID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMITypeNameEQ
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+EQ  RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫EQ
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMITypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->StructureType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIStructureType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StructureType->RecType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIRecType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫RecType->RECORD  FieldDecList  END  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecListRECORD
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RECORD  INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RECORD
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldDecList->BaseType  IdList  SEMI  FieldDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫IdList->ID  IdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫IdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldDecMore->FieldDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldDecList->BaseType  IdList  SEMI  FieldDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫IdList->ID  IdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMIIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫IdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIENDFieldDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldDecMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMIEND
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫END
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecTypeDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeDecMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDec->VarDeclaration  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDeclaration
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDeclaration->VAR  VarDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecListVAR
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫VAR
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecList->TypeName  VarIdList  SEMI  VarDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdList->ID  VarIdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecMore->VarDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecList->TypeName  VarIdList  SEMI  VarDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->BaseType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdList->ID  VarIdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecMore->VarDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecList->TypeName  VarIdList  SEMI  VarDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->BaseType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdList->ID  VarIdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecMore->VarDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecList->TypeName  VarIdList  SEMI  VarDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->BaseType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdList->ID  VarIdMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMIVarIdMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarIdMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMoreSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecVarDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDecMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcDec->ProcDeclaration  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDeclaration
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcDeclaration->PROCEDURE  ProcName  LPAREN  ParamList  RPAREN  SEMI  ProcDecPart  ProcBody  ProcDecMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamListLPARENProcNamePROCEDURE
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PROCEDURE  ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫PROCEDURE
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamListLPARENProcName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcName->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamListLPARENID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamListLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ParamList->ParamDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ParamDecList->Param  ParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreParam
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Param->TypeName  FormList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->BaseType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FormList->ID  FidMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFidMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFidMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FidMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ParamMore->SEMI  ParamDecList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamDecListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamDecList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ParamDecList->Param  ParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreParam
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Param->VAR  TypeName  FormList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListTypeNameVAR
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+VAR  INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫VAR
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListTypeName
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeName->BaseType  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListBaseType
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫BaseType->INTEGER  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormListINTEGER
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTEGER  ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTEGER
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFormList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FormList->ID  FidMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFidMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMoreFidMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FidMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPARENParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ParamMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMIRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPartSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecPart
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcDecPart->DeclarePart  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyDeclarePart
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫DeclarePart->TypeDec  VarDec  ProcDec  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecVarDecTypeDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫TypeDec->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDecVarDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VarDec->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBodyProcDec
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcDec->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProcBody
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcBody->ProgramBody  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreProgramBody
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProgramBody->BEGIN  StmList  END  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmListBEGIN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫BEGIN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->ID  AssCall  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreAssCallID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreAssCall
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssCall->AssignmentRest  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreAssignmentRest
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssignmentRest->VariMore  ASSIGN  Exp  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExpASSIGNVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExpASSIGN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ASSIGN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->AddOp  Exp  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExpAddOp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AddOp->PLUS  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExpPLUS
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫PLUS
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->INTC  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactorINTC
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+INTC  END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫INTC
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMoreEND
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+END  BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫END
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBodyProcDecMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProcDecMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTProgramBody
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ProgramBody->BEGIN  StmList  END  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListBEGIN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+BEGIN  READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫BEGIN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->InputStm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreInputStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫InputStm->READ  LPAREN  Invar  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvarLPARENREAD
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫READ
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvarLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Invar->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->InputStm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreInputStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫InputStm->READ  LPAREN  Invar  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvarLPARENREAD
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+READ  LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫READ
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvarLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENInvar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Invar->ID  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->ID  AssCall  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCallID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCall
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssCall->CallStmRest  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreCallStmRest
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫CallStmRest->LPAREN  ActParamList  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamListLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamList->Exp  ActParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamMore->COMMA  ActParamList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamListCOMMA
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫COMMA
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamList->Exp  ActParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->ID  AssCall  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCallID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCall
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssCall->AssignmentRest  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssignmentRest
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssignmentRest->VariMore  ASSIGN  Exp  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ASSIGN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->OutputStm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOutputStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OutputStm->WRITE  LPAREN  Exp  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPARENWRITE
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫WRITE
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->ID  AssCall  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCallID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCall
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssCall->CallStmRest  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreCallStmRest
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫CallStmRest->LPAREN  ActParamList  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamListLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamList->Exp  ActParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamMore->COMMA  ActParamList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamListCOMMA
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+COMMA  ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫COMMA
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamList->Exp  ActParamMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENActParamMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫ActParamMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->ID  AssCall  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCallID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssCall
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssCall->AssignmentRest  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreAssignmentRest
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AssignmentRest->VariMore  ASSIGN  Exp  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGNFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExpASSIGN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ASSIGN  ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ASSIGN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->OutputStm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOutputStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OutputStm->WRITE  LPAREN  Exp  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPARENWRITE
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫WRITE
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->SEMI  StmList  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmListSEMI
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+SEMI  WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫SEMI
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmList
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫StmList->Stm  StmMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Stm->OutputStm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreOutputStm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OutputStm->WRITE  LPAREN  Exp  RPAREN  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPARENWRITE
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+WRITE  LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫WRITE
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpLPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+LPAREN  ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫LPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->AddOp  Exp  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpAddOp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫AddOp->PLUS  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExpPLUS
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+PLUS  ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫PLUS
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENExp
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Exp->Term  OtherTerm  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Term->Factor  OtherFactor  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Factor->Variable  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariable
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫Variable->ID  VariMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorVariMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫VariMore->DOT  FieldVar  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarDOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+DOT  ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVar
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVar->ID  FieldVarMore  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMoreID
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+ID  RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫ID
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactorFieldVarMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫FieldVarMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTermOtherFactor
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherFactor->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPARENOtherTerm
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  END  DOT  #  
+*************************************
+Õ∆µº£∫OtherTerm->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+#DOTENDStmMoreRPAREN
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+RPAREN  END  DOT  #  
+*************************************
+∆•≈‰£∫RPAREN
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+ #DOTENDStmMore
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+  END  DOT  #  
+*************************************
+Õ∆µº£∫StmMore->$  
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+        #DOTEND
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+  END  DOT  #  
+*************************************
+∆•≈‰£∫END
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+           #DOT
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+       DOT  #  
+*************************************
+∆•≈‰£∫DOT
+
+∑÷Œˆ’ª:
++++++++++++++++++++++++++++++++++++++
+              #
++++++++++++++++++++++++++++++++++++++
+
+ £”‡ ‰»Î¥Æ:
+*************************************
+            #  
+*************************************
+      Accepted!

@@ -1,0 +1,135 @@
+
+
+Program第一集：0  PROGRAM 
+
+ProgramHead第一集：1  PROGRAM 
+
+ProgramName第一集：2  ID 
+
+DeclarePart第一集：3  $ PROCEDURE TYPE VAR 
+
+TypeDec第一集：4  $ TYPE 
+
+TypeDeclaration第一集：5  TYPE 
+
+TypeDecList第一集：6  ID 
+
+TypeDecMore第一集：7  $ ID 
+
+TypeId第一集：8  ID 
+
+TypeName第一集：9  ARRAY CHAR ID INTEGER RECORD 
+
+BaseType第一集：10  CHAR INTEGER 
+
+StructureType第一集：11  ARRAY RECORD 
+
+ArrayType第一集：12  ARRAY 
+
+Low第一集：13  INTC 
+
+Top第一集：14  INTC 
+
+RecType第一集：15  RECORD 
+
+FieldDecList第一集：16  ARRAY CHAR INTEGER 
+
+FieldDecMore第一集：17  $ ARRAY CHAR INTEGER 
+
+IdList第一集：18  ID 
+
+IdMore第一集：19  $ COMMA 
+
+VarDec第一集：20  $ VAR 
+
+VarDeclaration第一集：21  VAR 
+
+VarDecList第一集：22  ARRAY CHAR ID INTEGER RECORD 
+
+VarDecMore第一集：23  $ ARRAY CHAR ID INTEGER RECORD 
+
+VarIdList第一集：24  ID 
+
+VarIdMore第一集：25  $ COMMA 
+
+ProcDec第一集：26  $ PROCEDURE 
+
+ProcDeclaration第一集：27  PROCEDURE 
+
+ProcDecMore第一集：28  $ PROCEDURE 
+
+ProcName第一集：29  ID 
+
+ParamList第一集：30  $ ARRAY CHAR ID INTEGER RECORD VAR 
+
+ParamDecList第一集：31  ARRAY CHAR ID INTEGER RECORD VAR 
+
+ParamMore第一集：32  $ SEMI 
+
+Param第一集：33  ARRAY CHAR ID INTEGER RECORD VAR 
+
+FormList第一集：34  ID 
+
+FidMore第一集：35  $ COMMA 
+
+ProcDecPart第一集：36  $ PROCEDURE TYPE VAR 
+
+ProcBody第一集：37  BEGIN 
+
+ProgramBody第一集：38  BEGIN 
+
+StmList第一集：39  ID IF READ RETURN WHILE WRITE 
+
+StmMore第一集：40  $ SEMI 
+
+Stm第一集：41  ID IF READ RETURN WHILE WRITE 
+
+AssCall第一集：42  ASSIGN DOT LMIDPAREN LPAREN 
+
+AssignmentRest第一集：43  ASSIGN DOT LMIDPAREN 
+
+ConditionalStm第一集：44  IF 
+
+LoopStm第一集：45  WHILE 
+
+InputStm第一集：46  READ 
+
+Invar第一集：47  ID 
+
+OutputStm第一集：48  WRITE 
+
+ReturnStm第一集：49  RETURN 
+
+CallStmRest第一集：50  LPAREN 
+
+ActParamList第一集：51  $ ID INTC LPAREN 
+
+ActParamMore第一集：52  $ COMMA 
+
+RelExp第一集：53  ID INTC LPAREN 
+
+OtherRelE第一集：54  EQ LT 
+
+Exp第一集：55  ID INTC LPAREN 
+
+OtherTerm第一集：56  $ MINUS PLUS 
+
+Term第一集：57  ID INTC LPAREN 
+
+OtherFactor第一集：58  $ OVER TIMES 
+
+Factor第一集：59  ID INTC LPAREN 
+
+Variable第一集：60  ID 
+
+VariMore第一集：61  $ DOT LMIDPAREN 
+
+FieldVar第一集：62  ID 
+
+FieldVarMore第一集：63  $ LMIDPAREN 
+
+CmpOp第一集：64  EQ LT 
+
+AddOp第一集：65  MINUS PLUS 
+
+MultOp第一集：66  OVER TIMES 
